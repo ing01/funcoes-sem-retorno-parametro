@@ -1,4 +1,4 @@
-##Faça uma função/método que receba três números inteiros a, b, c que sejam divisíveis por a (inclusive b e c) e apresente a quantidade e os números divisíveis.
+# Algoritmo com uma função/método que receba três números inteiros a, b, c que sejam divisíveis por a (inclusive b e c) e apresente a quantidade e os números divisíveis.
 
 def divisores():
   a = int(input('Digite o primeiro número: '))

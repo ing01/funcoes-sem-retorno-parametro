@@ -1,4 +1,4 @@
-##Faça um programa contendo uma função/método que apresente o valor 1 se o número digitado for positivo e 0 se for negativo.
+# Algoritmo contendo uma função/método que apresente o valor 1 se o número digitado for positivo e 0 se for negativo.
 
 def num():
     n = int(input('Digite um número: '))

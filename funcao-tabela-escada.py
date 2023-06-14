@@ -1,4 +1,4 @@
-##Faça uma função/método que leia um valor inteiro entre 1 e 9 e mostre a tabela em escada.
+# Algoritmo com uma função/método que leia um valor inteiro entre 1 e 9 e mostre a tabela em escada.
 
 def multi():
   n = int(input('Insira um valor entre 1 e 9: '))

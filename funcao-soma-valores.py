@@ -1,4 +1,4 @@
-##Faça uma função/método que leia dois valores positivos e apresente a soma dos N números existentes entre eles (inclusive).
+# Algoritmo com uma função/método que leia dois valores positivos e apresente a soma dos N números existentes entre eles.
 
 def somar_entre():
   a = int(input('Informe um valor: '))

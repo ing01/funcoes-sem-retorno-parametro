@@ -1,4 +1,4 @@
-##Faça uma função/método que receba o preço antigo e atual de um produto, determine o percentual de acréscimo entre esses valores e apresente-o.
+# Algoritmo com uma função/método que receba o preço antigo e atual de um produto, determine o percentual de acréscimo entre esses valores e apresente-o.
 
 def valor():
   preco_antigo = float(input('Insira o valor antigo do produto: '))
